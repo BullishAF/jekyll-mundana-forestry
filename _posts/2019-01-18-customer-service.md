@@ -6,6 +6,7 @@ categories:
 - SBF
 - FTX
 image: "/assets/images/sbfftx.jpg"
+date: 2022-12-30 07:00:00 +0000
 
 ---
 Sam Bankman-Fried [**took to twitter**](https://twitter.com/SBF_FTX/status/1608908562851598336) earlier today to refute reports that he’s moved over $684,000 worth of crypto to newly created wallets, exchanges and bridges. SBF says he does not have access to those accounts and he said it’s likely various “legs” of FTX had access to those wallets. He stated that if it wasn’t FTX who had access, he hopes someone steps in soon and offered to advise regulators on the situation if wanted.
