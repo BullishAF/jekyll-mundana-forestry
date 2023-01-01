@@ -2,11 +2,11 @@
 layout: post
 title: Did SBF just move over $684,000 worth of crypto?
 author: ''
-categories:
-- tutorial
-image: assets/images/17.jpg
+categories: []
+image: "/assets/images/sbfftx.jpg"
 tags:
 - featured
+date: 2022-12-30 05:00:00 +0000
 
 ---
 DeFi analyst “BowTiedIguana” posted a [**series of tweets**](https://twitter.com/BowTiedIguana/status/1608653434387050496) on Thursday night pointing to blockchain data that they think is showing that Sam Bankman-Fried, the founder and former CEO of FTX who was just released on a $250 Million bail a week ago, may have recently moved over $684,000 worth of crypto.
