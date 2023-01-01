@@ -22,7 +22,7 @@ fields:
   label: image
 - name: date
   type: datetime
-  label: Date
+  label: date
   description: ''
   config:
     required: false
