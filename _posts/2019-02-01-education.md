@@ -8,45 +8,20 @@ image: "/assets/images/logo3com.jpg"
 date: 2022-12-29 17:00:00 +0000
 
 ---
-There are lots of powerful things you can do with the Markdown editor
+[**Coindesk**](https://www.coindesk.com/business/2022/12/29/fbi-investigating-3commas-data-breach/?utm_medium=referral&utm_source=rss&utm_campaign=headlines) said that two 3Commas users informed them on Thursday that they were contacted by agents from the FBI’s Cincinnati Field Office about the 3Commas API Keys leak.
 
-If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+For several months now many users have found that 3Commas had traded away funds on crypto exchanges they’d linked their 3Comma account to, without their consent. 3Commas however claimed these users were most likely phished and insisted that it’s platform is safe.
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+The API leaker insinuated that the 3Commas keys had been sold by someone inside the company, but 3Commas CEO Yuriy Sorokin refuted that claim in a statement released on Thursday:
 
+> 3Commas stresses that it has found no evidence during the internal investigation that any employee of 3Commas was somehow involved in attacks against the API data. Since becoming aware of the suspicious activities taking place, we immediately launched an internal investigation. We will continue with the investigation in the light of the new information and also notify law enforcement authorities accordingly.
+>
+> > **_3commas CEO Yuriy Sorokin statement on leak of API keys_**
 
-## Special formatting
+A 3Commas victim group, previously reached out to the U.S. Secret Service and other law enforcement agencies to understand how their funds had gone missing. Binance CEO Changpeng Zhao (CZ) posted this [**Tweet**](https://twitter.com/cz_binance/status/1608182790540902407?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1608182790540902407%7Ctwgr%5Ef2176941b5418fff860510e6f787f5396a3d42c8%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcointelegraph.com%2Fnews%2F3commas-ceo-confirms-api-key-leak-following-warning-from-cz) on Dec. 28, stating:
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+> I am reasonably sure there are wide spread API key leaks from 3Commas. If you have ever put an API key in 3Commas (from any exchange), please disable it immediately. Stay #SAFU.
+>
+> > **_tweet from Binance CEO Changpeng Zhao._**
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
-
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-If you want to get really fancy, you can even add syntax highlighting using Rouge.
-
-
-![walking]({{ '/assets/images/8.jpg' | relative_url }})
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+Binance had already dealt with an incident involving 3Commas on Dec. 9, when Binance cancelled the account of a user who complained about losing funds a day earlier. That user claimed a leaked API key tied to 3Commas was used “to make trades on low cap coins to push up the price to make profit.” Binance has declined to reimburse this user.
