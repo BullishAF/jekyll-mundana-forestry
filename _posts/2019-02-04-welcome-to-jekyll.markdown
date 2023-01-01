@@ -9,22 +9,8 @@ author: Anthony Blaida
 date: 2022-12-17T05:00:00.000+00:00
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Sam Bankman-Fried has been extradited and is now officially in the custody of the US government. He is due to land in New York and will most likely appear in front of a U.S. judge on Thursday where his lawyers are expected to request that the former FTX CEO be released on bail under certain conditions.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Bahamian authorities arrested Bankman-Fried last week at the request of the U.S. government. U.S. prosecutors indicted him on eight charges over the collapse of the crypto exchange FTX, defrauding customers and investors of FTX. Bankman-Fried was denied bail Friday after a Bahamian judge ruled that he posed a flight risk.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Initially Bankman-Fried refused to waive his rights to an extradition but quickly had a change of heart after spending six days inside the Bahamas Fox Hill Prison. If the 30-year-old founder and former CEO of FTX is found guilty on all charges, he could potentially spend the rest of his life in prison.
