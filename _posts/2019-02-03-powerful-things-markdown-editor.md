@@ -2,7 +2,9 @@
 layout: post
 title: Bitfarms CEO Steps Down After Selling Shares
 author: ''
-categories: []
+categories:
+- Crypto
+- Mining
 image: "/assets/images/crypto.jpg"
 tags:
 - summer
