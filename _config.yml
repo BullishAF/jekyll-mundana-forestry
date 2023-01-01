@@ -15,13 +15,12 @@ plugins:
 - jekyll-seo-tag
 authors:
   sal:
-    name: Sal
-    site: https://www.wowthemes.net
+    name: 'Anthony Blaida '
+    site: ''
     avatar: "/assets/images/avatar1.jpg"
-    bio: Hi, I am Sal, the author of Mundana, the theme you're currently previewing.
-      I hope you like it!
-    email: wowthemesnet@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+    bio: Anthony Blaida , the head of publishing at On Chain News
+    email: ''
+    twitter: https://twitter.com/onchainnews2
   jane:
     name: 'Alana Sotomayer '
     site: https://www.wowthemes.net
