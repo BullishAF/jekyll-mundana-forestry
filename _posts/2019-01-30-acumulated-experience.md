@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Accumulated experience of social living"
+title: Mango Market exploiter Avi Eisenberg arrested in Puerto Rico
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/15.jpg
+categories:
+- Mango Markets Exploit
+- Avi Eisenberg
+image: "/assets/images/avi.jpg"
+
 ---
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+The US Attorney’s Office for the Southern District of New York unsealed its charges against Avi Eisenberg. Eisenberg is charged with commodities fraud and manipulation over his $110 million October attack on Mango Markets. The charges were unsealed after Avi Eisenberg was arrested in Puerto Rico on December 26th.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+Eisenberg made the somewhat head-scratching decision and admitted in a twitter post to being the person responsible for the attack on Mango Markets. In his twitter thread, he said he believed that his actions were “legal open market actions”. The attack consisted of purchasing a large amount of MNGO tokens, Mango Market’s DAO token, essentially pumping the token’s price.
 
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+The MNGO token was then used as “collateral” on the exchange in order to borrow USDC with no intent to repay the loan which left Mango Markets with bad debt and users on the exchange unable to redeem funds. Although the initial exploit was for over $114 Million, afterwards Eisenberg proposed a settlement agreement with the goal of making all Mango Market users whole, as well as recapitalizing the Mango Market exchange.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
-
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+The Mango Market DAO, voted in favor of Eisenberg’s settlement agreement and $67 million was returned to the exchange. Eisenberg kept the remaining $47 million and is now charged with commodities fraud and market manipulation. Mango Market isn’t the only exploit Eisenberg is accused of being behind, as he is also allegedly the exploiter behind DeFi lending protocol Aave being left in $1.7 million of bad debt as well as embezzling $14 million from Fortress DAO back in Febuary.
