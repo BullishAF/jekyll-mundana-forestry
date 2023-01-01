@@ -6,6 +6,7 @@ categories:
 - Mango Markets Exploit
 - Avi Eisenberg
 image: "/assets/images/avi.jpg"
+date: 2022-12-26 05:00:00 +0000
 
 ---
 The US Attorney’s Office for the Southern District of New York unsealed its charges against Avi Eisenberg. Eisenberg is charged with commodities fraud and manipulation over his $110 million October attack on Mango Markets. The charges were unsealed after Avi Eisenberg was arrested in Puerto Rico on December 26th.
