@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
-categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+title: 3Commas Data Breach being investigated by FBI
+categories:
+- 3Commas
+- Investigation
+image: "/assets/images/logo3com.jpg"
+date: 2022-12-29 17:00:00 +0000
+
 ---
 There are lots of powerful things you can do with the Markdown editor
 
