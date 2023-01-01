@@ -1,27 +1,20 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
-author: sal
-categories: [ tutorial ]
+title: Did SBF just move over $684,000 worth of crypto?
+author: ''
+categories:
+- tutorial
 image: assets/images/17.jpg
-tags: [featured]
+tags:
+- featured
+
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+DeFi analyst “BowTiedIguana” posted a [**series of tweets**](https://twitter.com/BowTiedIguana/status/1608653434387050496) on Thursday night pointing to blockchain data that they think is showing that Sam Bankman-Fried, the founder and former CEO of FTX who was just released on a $250 Million bail a week ago, may have recently moved over $684,000 worth of crypto.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+In August of 2020 Sam Bankman-Fried agreed to take over control of the DeFi exchange Sushiswap from the anonymous founder Chef Nomi and asked for control of the exchange be sent to his wallet address on the Ethereum Blockchain. According to “BowTiedIguana” the ETH that was in that address, was transfered to a newly created address and then within hours, that new address also received transfers totaling $367k from 32 wallets identified as SBF’s former crypto trading firm Alameda Research Ltd. + $322k from various other wallets.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+All of the crypto was then sent to a Crypto Exchange in Seychelles or to the Ren BTC bridge which was also previously funded and operated by Alameda Research. Many people in the crypto industry have long speculated that SBF himself was Chef Nomi, the anonymous co-founder of Sushiswap.
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Also coming into question in this situation is one of SBF’s bail conditions set by the Judge, which stated he could not open any new credit lines of more than $1,000 USD. Although as of now these are just accusations, if it can be proved that SBF did move the crypto, it’s still not known whether that would actually be in violation of his bail agreement.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
-
-To deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
-
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
-
-> The claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
-
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+One issue is that someone “moving” crypto to other addresses doesn’t necessarily equate to “spending” it and also if the assets were already in his possesion in the previous wallet, would creating a new wallet be considered the same as opening an new account. This is just the latest twist in what has been a captivating, drama filled spectacle since FTX, Alameda Research, and over 100 affiliated entities declared bankruptcy on Nov. 11th.
