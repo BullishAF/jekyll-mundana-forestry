@@ -33,7 +33,7 @@ defaults:
     path: _posts
   values:
     layout: post
-    author: sal
+    author: Anthony
     avatar: "/assets/images/avatar1.jpg"
 - scope:
     path: _pages
