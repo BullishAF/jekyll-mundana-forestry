@@ -1,9 +1,10 @@
 ---
 layout: post
-categories: []
+categories:
+- Solana
 title: MUCH WOW! New memecoin BONK up over 390% in the past three days!
 image: "/assets/images/bonk.jpg"
-date: 2023-01-02 05:00:00 +0000
+date: 2023-01-02T05:00:00.000+00:00
 
 ---
 Dogecoin - Elon Musk’s favorite “memecoin” and Shiba Inu - the darkhorse memecoin that had a meteoric rise during the crypto bull run and is now a top 20 token remain the gold standards for dog-themed “memecoins” in crypto. Now [**BONK**](https://www.coingecko.com/en/coins/bonk) the self-proclaimed “first Solana dog coin for the people and by the people”, is becoming the latest dog-themed “memecoin” to surge in price and popularity.
