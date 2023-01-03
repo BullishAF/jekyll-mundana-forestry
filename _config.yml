@@ -16,11 +16,11 @@ plugins:
 - jekyll-seo-tag
 authors:
   Publisher:
-    name: 'On Chain News'
+    name: On Chain News
     site: ''
     avatar: "/assets/images/on-chainnews.png"
     bio: On Chain News
-    email: ''
+    email: admin@on-chain.news
     twitter: https://twitter.com/onchainnews2
   jane:
     name: 'Alana Sotomayer '
