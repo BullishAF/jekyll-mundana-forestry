@@ -5,7 +5,7 @@ author: ''
 categories: []
 image: "/assets/images/sbfftx.jpg"
 tags:
-- featured
+- press-release
 date: 2022-12-30 05:00:00 +0000
 
 ---
