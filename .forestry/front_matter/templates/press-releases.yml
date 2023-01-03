@@ -13,10 +13,10 @@ fields:
   config:
     required: false
   label: title
-- name: category
+- name: categories
   type: tag_list
   default: []
-  label: category
+  label: categories
 - name: image
   type: file
   config:
