@@ -6,16 +6,16 @@
 	<p class="excerpt">
 	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186}}
 	</p>
-	<small class="d-block text-dark">
+	<p class="d-block text-dark">
 		<span class="catlist">
 		{% for category in post.categories %}
-		<a class="text-capitalize text-muted smoothscroll" href="{{ 'categories.html' | relative_url }}#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+		<a class="text-capitalize text-dark smoothscroll" href="{{ 'categories.html' | relative_url }}#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
 		{% endfor %}
 		</span>
-	</small>
-	<small class="text-dark">
+	</p>
+	<p class="text-dark">
 		{{ post.date | date: '%b %d, %Y' }}
-	</small>
+	</p>
 </div>
 {% if post.image %}
 	<div class="col-md-3 pr-0 text-right">
