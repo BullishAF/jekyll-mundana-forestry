@@ -8,6 +8,7 @@ sections:
   label: Posts
   create: documents
   templates:
+  - press-releases
   - post
 - type: jekyll-pages
   label: Pages
