@@ -30,6 +30,8 @@ authors:
     email: ''
     twitter: ''
 defaults:
+- scope: ''
+  values: ''
 - scope:
     path: _posts
   values:
