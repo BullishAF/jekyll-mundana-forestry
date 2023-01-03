@@ -1,9 +1,9 @@
 ---
 name: On-Chain News
 description: On-Chain News brings you the latest in crypto, defi and nfts
-logo: assets/images/logo.png
+logo: assets/images/on-chainnews.png
 favicon: assets/images/favicon.ico
-email: wowthemesnet@gmail.com
+email: admin@on-chain.news.com
 mailchimp-list: ''
 include:
 - _pages
@@ -15,11 +15,11 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 authors:
-  sal:
-    name: 'Anthony Blaida '
+  Publisher:
+    name: 'On Chain News'
     site: ''
-    avatar: "/assets/images/avatar1.jpg"
-    bio: Anthony Blaida , the head of publishing at On Chain News
+    avatar: "/assets/images/on-chainnews.png"
+    bio: On Chain News
     email: ''
     twitter: https://twitter.com/onchainnews2
   jane:
@@ -34,8 +34,8 @@ defaults:
     path: _posts
   values:
     layout: post
-    author: Anthony
-    avatar: "/assets/images/avatar1.jpg"
+    author: On Chain News
+    avatar: "/assets/images/on-chainnews.png"
 - scope:
     path: _pages
   values:
