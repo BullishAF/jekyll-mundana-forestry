@@ -10,6 +10,7 @@ description: A On Chain News
   {% if page.url == "/" %}
   <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
   <div class="row remove-site-content-margin">
+      <h4 class="font-weight-bold spanborder"><span>Latest News</span></h4>
 
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
@@ -27,14 +28,14 @@ description: A On Chain News
             {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
           </p>
           <div>
-            <small class="d-block text-muted">
-              In <span class="catlist">
+            <p class="d-block text-dark">
+               <span class="catlist">
                 {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{ 'categories.html' | relative_url }}#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                <a class="text-capitalize text-dark smoothscroll" href="{{ 'categories.html' | relative_url }}#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
               </span>
-            </small>
-            <small class="text-muted">
+            </p>
+            <small class="text-dark">
               {{ latest_post.date | date: '%b %d, %Y' }}
             </small>
           </div>
@@ -58,10 +59,10 @@ description: A On Chain News
           <h2 class="mb-2 h6 font-weight-bold">
             <a class="text-dark" href="{{second_post.url | relative_url }}">{{ second_post.title }}</a>
           </h2>
-          <small class="d-block text-muted">
-            In <span class="catlist">
+          <p class="d-block text-dark">
+             <span class="catlist">
               {% for category in second_post.categories %}
-              <a class="text-capitalize text-muted smoothscroll" href="{{ 'categories.html' | relative_url }}#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+              <a class="text-capitalize text-dark smoothscroll" href="{{ 'categories.html' | relative_url }}#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
               {% endfor %}
             </span>
           </small>
@@ -85,13 +86,13 @@ description: A On Chain News
           <h2 class="mb-2 h6 font-weight-bold">
             <a class="text-dark" href="{{ third_post.url | relative_url }}">{{ third_post.title }}</a>
           </h2>
-          <small class="d-block text-muted">
-            In <span class="catlist">
+          <p class="d-block text-dark">
+             <span class="catlist">
               {% for category in third_post.categories %}
-              <a class="text-capitalize text-muted smoothscroll" href="{{ 'categories.html' | relative_url }}#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+              <a class="text-capitalize text-dark smoothscroll" href="{{ 'categories.html' | relative_url }}#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
               {% endfor %}
             </span>
-          </small>
+          </p>
           <small class="text-muted">
             {{ third_post.date | date: '%b %d, %Y' }}
           </small>
@@ -156,7 +157,7 @@ description: A On Chain News
   <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
   <div class="row mt-3">
     <div class="col-md-8 main-loop">
-      <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+      <h4 class="font-weight-bold spanborder"><span>All News</span></h4>
 
       {% for post in paginator.posts %}
       {% include main-loop-card.html %}
@@ -194,6 +195,9 @@ description: A On Chain News
 
     <div class="col-md-4">
       {% include sidebar-featured.html %}
+    </div>
+     <div class="col-md-4">
+      {% include sidebar-pr.html %}
     </div>
   </div>
 </div>
